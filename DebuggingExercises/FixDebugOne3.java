@@ -1,4 +1,4 @@
-public class FixedDebugOne3 {
+public class FixDebugOne3 {
 
     public static void main(String[] args) {
         System.out.println("Over the river");
